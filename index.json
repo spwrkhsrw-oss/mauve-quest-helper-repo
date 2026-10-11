@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "name": "Mauve Quest Helper Repository",
+  "description": "Catppuccin Mocha / Mauve manual Discord Quest checklist helper for Revenge.",
+  "plugins": {
+    "com.mauve.quest-helper": {
+      "name": "Mauve Quest Helper",
+      "description": "A manual Quest checklist and official Discord Quest page shortcut. Does not spoof activity or automate progress.",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://YOUR_GITHUB_USERNAME.github.io/mauve-quest-helper-repo/pool/com.mauve.quest-helper@1.0.0.zip",
+          "sha256": "c582c0b07afb837443cae6d34ec6d38d274aaa17e48a38846194bd224ace35fb",
+          "size": 3728,
+          "dependencies": {
+            "revenge.api": { "version": ">=1 <2" },
+            "discord": { "version": "*" }
+          }
+        }
+      }
+    }
+  }
+}
