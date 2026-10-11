@@ -11,7 +11,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://YOUR_GITHUB_USERNAME.github.io/mauve-quest-helper-repo/pool/com.mauve.quest-helper@1.0.0.zip",
+          "url": "https://raw.githubusercontent.com/spwrkhsrw-oss/mauve-quest-helper-repo/main/pool/com.mauve.quest-helper@1.0.0.zip",
           "sha256": "c582c0b07afb837443cae6d34ec6d38d274aaa17e48a38846194bd224ace35fb",
           "size": 3728,
           "dependencies": {
